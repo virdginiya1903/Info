@@ -16,3 +16,8 @@ http://cssnext.io/features/#color-function
 => интерактив по Гридам http://yui.github.io/gridbuilder/ и https://codepen.io/anthonydugois/pen/RpYBmy
 ## Правила верстки
 http://codeguide.co/
+
+# Шпаргалки
+
+## Шпаргалка по ES6 (2015)
+https://habr.com/post/305900/ и https://learn.javascript.ru/es-modern
