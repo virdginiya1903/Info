@@ -21,3 +21,5 @@ http://codeguide.co/
 
 ## Шпаргалка по ES6 (2015)
 https://habr.com/post/305900/ и https://learn.javascript.ru/es-modern
+
+## Шпаргалка по YARN
