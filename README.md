@@ -23,3 +23,4 @@ http://codeguide.co/
 https://habr.com/post/305900/ и https://learn.javascript.ru/es-modern
 
 ## Шпаргалка по YARN
+https://github.com/areai51/yarn-cheatsheet
