@@ -24,3 +24,7 @@ https://habr.com/post/305900/ и https://learn.javascript.ru/es-modern
 
 ## Шпаргалка по YARN
 https://github.com/areai51/yarn-cheatsheet
+
+## Шпаргалка по созданию всего cтека технологий JavaScript с нуля
+https://github.com/UsulPro/js-stack-from-scratch-v1-rus
+
