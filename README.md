@@ -28,3 +28,7 @@ https://github.com/areai51/yarn-cheatsheet
 ## Шпаргалка по созданию всего cтека технологий JavaScript с нуля
 https://github.com/UsulPro/js-stack-from-scratch-v1-rus
 
+## Как работать с CSS-препроцессорами (БЭМ все в одном)
+Список рекомендаций по вёрстке БЭМ
+
+
