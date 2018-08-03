@@ -38,5 +38,6 @@ https://github.com/UsulPro/js-stack-from-scratch-v1-rus
 
 https://ru.bem.info/methodology/
 
-
+## Быстрый старт
+https://ru.bem.info/methodology/quick-start/
 
